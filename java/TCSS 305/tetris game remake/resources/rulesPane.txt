@@ -1,0 +1,19 @@
+How to play:
+        
+Fit the Tetris pieces as tight as possible.
+Every new piece adds 4 points to your score.
+Try to stay alive as long as possible, but careful
+the game speeds up! It is harder than it seems.
+        
+Controls:
+
+Rotate piece: W key or up arrow key
+Move left: A key or left arrow key
+Move right: D key or right arrow key
+Move down: S key or down arrow key
+Drop: spacebar
+        
+Keyboard Commands:
+
+Pause: shift + P
+Resume: shift + O
